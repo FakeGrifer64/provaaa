@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v7.2.0">
+        <ModelTarget name="Barquinho" targetId="16af5a4928fc4176afcfb6146f442c83" version="14.0" toolVersion="v7.2.0" bbox="-0.030825 -0.015502 0.000000 0.029176 0.015502 0.048000" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="low_feature_objects" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="Barquinho" assemblyId="db5f565315664b96ab19c6724b20d478">
+        <Part name="Barquinho" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+</QCARInfo>
